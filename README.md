@@ -57,7 +57,7 @@ Built linear and logistic regression models to assess how marketing channels (em
 
 Determined that email marketing increased spending, while newsletters slightly reduced average order value.
 
-** RFM Analysis: **
+_RFM Analysis:_
 
 Calculated Recency, Frequency, and Monetary scores to classify customers.
 
